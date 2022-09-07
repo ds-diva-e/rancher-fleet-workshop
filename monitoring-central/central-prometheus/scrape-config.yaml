@@ -30,7 +30,7 @@ stringData:
         insecure_skip_verify: true
       static_configs:
         - targets: 
-          - "prometheus.central.<IPcentral>.sslip.io:443"
-          - "prometheus.fleet01.<IPfleet01>.sslip.io:443"
-          - "prometheus.fleet02.<IPfleet02>.sslip.io:443"
-          - "prometheus.fleet03.<IPfleet03>.sslip.io:443"
+          - "prometheus.central.54.229.71.152.sslip.io:443"
+          - "prometheus.fleet01.3.250.48.197.sslip.io:443"
+          - "prometheus.fleet02.52.16.128.6.sslip.io:443"
+          - "prometheus.fleet03.54.246.55.172.sslip.io:443"
